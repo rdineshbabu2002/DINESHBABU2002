@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/images/blog/Full+stack+developer+resume+template.jpg)]
 <h1 align="center">Hi 👋, I'm DINESHBABU R</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP/fullscreen"/>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshbabu2002&label=Profile%20views&color=0e75b6&style=flat" alt="dineshbabu2002" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rdineshbabu2002" target="blank"><img src="https://img.shields.io/twitter/follow/rdineshbabu2002?logo=twitter&style=for-the-badge" alt="rdineshbabu2002" /></a> </p>
