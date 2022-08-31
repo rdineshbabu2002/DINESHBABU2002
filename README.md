@@ -1,4 +1,4 @@
-[![MasterHead](https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/images/blog/Full+stack+developer+resume+template.jpg)]
+![MasterHead](https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/images/blog/Full+stack+developer+resume+template.jpg)
 <h1 align="center">Hi 👋, I'm DINESHBABU R</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"/>
