@@ -1,4 +1,4 @@
-![MasterHead](https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/images/blog/Full+stack+developer+resume+template.jpg)
+[![MasterHead](https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/images/blog/Full+stack+developer+resume+template.jpg)]
 <h1 align="center">Hi 👋, I'm DINESHBABU R</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"/>
@@ -17,9 +17,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rdineshbabu2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rdineshbabu2002" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dineshbabu-r-4210a7201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dineshbabu-r-4210a7201/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dineshbabu-r-4210a7201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dineshbabu-r-4210a7201/" height="30" width="40" /></a>
 <a href="https://instagram.com/knight_star_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="knight_star_02" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rdineshbabu_20c1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rdineshbabu_20c1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rdineshbabu_20c1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rdineshbabu_20c1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
